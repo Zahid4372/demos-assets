@@ -1,0 +1,2186 @@
+[
+  {
+    "id": "0g2RTEpdCnHv2Uog7AOa",
+    "title": "Sinful Fudge Indulgence",
+    "price": 39.99,
+    "salePrice": 34.99,
+    "sku": "SFI-CHOC-001",
+    "stock": 50,
+    "date": "2023-10-05",
+    "category": "Flavor-Based Cakes",
+    "subCategory": "Chocolate Cakes",
+    "productType": "variables",
+    "brand": "Any",
+    "images": [
+      "Sinful_Fudge_Indulgence_SFI-CHOC-001-6-DC.png",
+      "Sinful_Fudge_Indulgence_SFI-CHOC-001-8-MC.png",
+      "Sinful_Fudge_Indulgence_SFI-CHOC-001-10-WC.png"
+    ],
+    "thumbnail": "Sinful_Fudge_Indulgence_SFI-CHOC-001-6-DC.png",
+    "isFeatured": true,
+    "description": "Indulge in the ultimate chocolate experience with the Sinful Fudge Indulgence cake. Rich, decadent, and perfect for any special occasion or just because.",
+    "createdAt": "2023-10-05",
+    "attributes": [
+      {
+        "name": "Size",
+        "values": [
+          "6-inch",
+          "8-inch",
+          "10-inch"
+        ]
+      },
+      {
+        "name": "Frosting Type",
+        "values": [
+          "Dark Chocolate",
+          "Milk Chocolate",
+          "White Chocolate"
+        ]
+      }
+    ],
+    "variations": [
+      {
+        "id": "SFI-CHOC-001-6-DC",
+        "sku": "SFI-001-6DC",
+        "image": "Sinful_Fudge_Indulgence_SFI-CHOC-001-6-DC.png",
+        "description": "6-inch cake with Dark Chocolate frosting.",
+        "price": 39.99,
+        "salePrice": 34.99,
+        "stock": 20,
+        "attributeValues": {
+          "Size": "6-inch",
+          "Frosting Type": "Dark Chocolate"
+        }
+      },
+      {
+        "id": "SFI-CHOC-001-8-MC",
+        "sku": "SFI-001-8MC",
+        "image": "Sinful_Fudge_Indulgence_SFI-CHOC-001-8-MC.png",
+        "description": "8-inch cake with Milk Chocolate frosting.",
+        "price": 49.99,
+        "salePrice": 44.99,
+        "stock": 15,
+        "attributeValues": {
+          "Size": "8-inch",
+          "Frosting Type": "Milk Chocolate"
+        }
+      },
+      {
+        "id": "SFI-CHOC-001-10-WC",
+        "sku": "SFI-001-10WC",
+        "image": "Sinful_Fudge_Indulgence_SFI-CHOC-001-10-WC.png",
+        "description": "10-inch cake with White Chocolate frosting.",
+        "price": 59.99,
+        "salePrice": 54.99,
+        "stock": 15,
+        "attributeValues": {
+          "Size": "10-inch",
+          "Frosting Type": "White Chocolate"
+        }
+      }
+    ]
+  },
+  {
+    "id": "65BB2ziIzXVKAUug2LwP",
+    "title": "Proposal Pastries",
+    "price": 75.99,
+    "salePrice": 69.99,
+    "sku": "PP-ENGC-101",
+    "stock": 30,
+    "date": "2023-10-12",
+    "category": "Occasion-Based Cakes",
+    "subCategory": "Engagement Cakes",
+    "productType": "variables",
+    "brand": "Any",
+    "images": [
+      "Proposal_Pastries_1.png",
+      "Proposal_Pastries_2.png",
+      "Proposal_Pastries_3.png"
+    ],
+    "thumbnail": "Proposal_Pastries_1.png",
+    "isFeatured": true,
+    "description": "Celebrate the beginning of a lifetime journey with our exquisite Proposal Pastries, crafted to perfection for your engagement moment. These cakes not only look stunning but are also bursting with flavors that will delight everyone at your celebration.",
+    "createdAt": "2023-10-12",
+    "attributes": [
+      {
+        "name": "Flavor",
+        "values": [
+          "Vanilla",
+          "Chocolate",
+          "Red Velvet"
+        ]
+      },
+      {
+        "name": "Size",
+        "values": [
+          "6-inch",
+          "8-inch",
+          "10-inch"
+        ]
+      }
+    ],
+    "variations": [
+      {
+        "id": "1",
+        "sku": "PP-ENGC-101-V1",
+        "image": "Proposal_Pastries_1.png",
+        "description": "Vanilla flavor with a 6-inch base, perfect for intimate gatherings.",
+        "price": 75.99,
+        "salePrice": 69.99,
+        "stock": 10,
+        "attributeValues": {
+          "Flavor": "Vanilla",
+          "Size": "6-inch"
+        }
+      },
+      {
+        "id": "2",
+        "sku": "PP-ENGC-102-V2",
+        "image": "Proposal_Pastries_2.png",
+        "description": "Chocolate delight with an 8-inch base, a perfect centerpiece for your celebration.",
+        "price": 85.99,
+        "salePrice": 79.99,
+        "stock": 8,
+        "attributeValues": {
+          "Flavor": "Chocolate",
+          "Size": "8-inch"
+        }
+      },
+      {
+        "id": "3",
+        "sku": "PP-ENGC-103-V3",
+        "image": "Proposal_Pastries_3.png",
+        "description": "Classic Red Velvet with a 10-inch base, ideal for larger gatherings.",
+        "price": 95.99,
+        "salePrice": 89.99,
+        "stock": 12,
+        "attributeValues": {
+          "Flavor": "Red Velvet",
+          "Size": "10-inch"
+        }
+      }
+    ]
+  },
+  {
+    "id": "6QzGf6MWCu2XLQi27vd0",
+    "title": "Merriment Masterpiece",
+    "price": 49.99,
+    "salePrice": 39.99,
+    "sku": "MM-BDAY-CAKE",
+    "stock": 25,
+    "date": "2023-10-05",
+    "category": "Occasion-Based Cakes",
+    "subCategory": "Birthday Cakes",
+    "productType": "variables",
+    "brand": "Sweet Celebrations",
+    "images": [
+      "Merriment_Masterpiece_MM-BDAY-CAKE-01.png",
+      "Merriment_Masterpiece_MM-BDAY-CAKE-02.png",
+      "Merriment_Masterpiece_MM-BDAY-CAKE-03.png"
+    ],
+    "thumbnail": "Merriment_Masterpiece_MM-BDAY-CAKE-01.png",
+    "isFeatured": true,
+    "description": "Celebrate birthdays with a burst of flavors with the Merriment Masterpiece. A delightful cake perfect for creating memorable moments.",
+    "createdAt": "2023-10-05",
+    "attributes": [
+      {
+        "name": "Size",
+        "values": [
+          "Small",
+          "Medium",
+          "Large"
+        ]
+      },
+      {
+        "name": "Flavor",
+        "values": [
+          "Chocolate",
+          "Vanilla",
+          "Strawberry"
+        ]
+      }
+    ],
+    "variations": [
+      {
+        "id": "MM-BDAY-CAKE-01",
+        "sku": "MM-BDAY-CAKE-S-CHOC",
+        "image": "Merriment_Masterpiece_MM-BDAY-CAKE-01.png",
+        "description": "Small Chocolate Merriment Masterpiece",
+        "price": 29.99,
+        "salePrice": 24.99,
+        "stock": 10,
+        "attributeValues": {
+          "Size": "Small",
+          "Flavor": "Chocolate"
+        }
+      },
+      {
+        "id": "MM-BDAY-CAKE-02",
+        "sku": "MM-BDAY-CAKE-M-VAN",
+        "image": "Merriment_Masterpiece_MM-BDAY-CAKE-02.png",
+        "description": "Medium Vanilla Merriment Masterpiece",
+        "price": 39.99,
+        "salePrice": 34.99,
+        "stock": 8,
+        "attributeValues": {
+          "Size": "Medium",
+          "Flavor": "Vanilla"
+        }
+      },
+      {
+        "id": "MM-BDAY-CAKE-03",
+        "sku": "MM-BDAY-CAKE-L-STR",
+        "image": "Merriment_Masterpiece_MM-BDAY-CAKE-03.png",
+        "description": "Large Strawberry Merriment Masterpiece",
+        "price": 49.99,
+        "salePrice": 39.99,
+        "stock": 7,
+        "attributeValues": {
+          "Size": "Large",
+          "Flavor": "Strawberry"
+        }
+      }
+    ]
+  },
+  {
+    "id": "9mAodl8k8jI6sqTyu173",
+    "title": "Yes, I Do Delights",
+    "price": 85,
+    "salePrice": 75,
+    "sku": "YID-ENG-001",
+    "stock": 30,
+    "date": "2023-11-24",
+    "category": "Occasion-Based Cakes",
+    "subCategory": "Engagement Cakes",
+    "productType": "variables",
+    "brand": "Any",
+    "images": [
+      "Yes,_I_Do_Delights_var1.png",
+      "Yes,_I_Do_Delights_var2.png",
+      "Yes,_I_Do_Delights_var3.png"
+    ],
+    "thumbnail": "Yes,_I_Do_Delights_var1.png",
+    "isFeatured": true,
+    "description": "Celebrate your special moment with the 'Yes, I Do Delights' engagement cake. Crafted with exquisite flavors and adorned with elegant decorations, this cake is the perfect centerpiece for your engagement party.",
+    "createdAt": "2023-11-24",
+    "attributes": [
+      {
+        "name": "Size",
+        "values": [
+          "Small",
+          "Medium",
+          "Large"
+        ]
+      },
+      {
+        "name": "Flavor",
+        "values": [
+          "Vanilla",
+          "Chocolate",
+          "Red Velvet"
+        ]
+      }
+    ],
+    "variations": [
+      {
+        "id": "var1",
+        "sku": "YID-ENG-001-S-V",
+        "image": "Yes,_I_Do_Delights_var1.png",
+        "description": "Small Vanilla Yes, I Do Delight engagement cake.",
+        "price": 75,
+        "salePrice": 70,
+        "stock": 10,
+        "attributeValues": {
+          "Size": "Small",
+          "Flavor": "Vanilla"
+        }
+      },
+      {
+        "id": "var2",
+        "sku": "YID-ENG-002-M-C",
+        "image": "Yes,_I_Do_Delights_var2.png",
+        "description": "Medium Chocolate Yes, I Do Delight engagement cake.",
+        "price": 85,
+        "salePrice": 80,
+        "stock": 10,
+        "attributeValues": {
+          "Size": "Medium",
+          "Flavor": "Chocolate"
+        }
+      },
+      {
+        "id": "var3",
+        "sku": "YID-ENG-003-L-RV",
+        "image": "Yes,_I_Do_Delights_var3.png",
+        "description": "Large Red Velvet Yes, I Do Delight engagement cake.",
+        "price": 95,
+        "salePrice": 85,
+        "stock": 10,
+        "attributeValues": {
+          "Size": "Large",
+          "Flavor": "Red Velvet"
+        }
+      }
+    ]
+  },
+  {
+    "id": "AH3fpqFlkW6pmNlaqdk7",
+    "title": "Marvelous Marvel Munchies",
+    "price": 50,
+    "salePrice": 45,
+    "sku": "MMM-SHC-001",
+    "stock": 25,
+    "date": "2023-10-15",
+    "category": "Theme-Based Cakes",
+    "subCategory": "Superhero Cakes",
+    "productType": "variables",
+    "brand": "Any",
+    "images": [
+      "Marvelous_Marvel_Munchies_var-001.png",
+      "Marvelous_Marvel_Munchies_var-002.png",
+      "Marvelous_Marvel_Munchies_var-003.png"
+    ],
+    "thumbnail": "Marvelous_Marvel_Munchies_var-001.png",
+    "isFeatured": true,
+    "description": "Indulge in our Marvelous Marvel Munchies, a delightfully themed cake perfect for superhero enthusiasts. With vibrant colors and stunning designs, these cakes are sure to impress at any gathering.",
+    "createdAt": "2023-10-15",
+    "attributes": [
+      {
+        "name": "Size",
+        "values": [
+          "Small",
+          "Medium",
+          "Large"
+        ]
+      },
+      {
+        "name": "Flavor",
+        "values": [
+          "Chocolate",
+          "Vanilla",
+          "Red Velvet"
+        ]
+      }
+    ],
+    "variations": [
+      {
+        "id": "var-001",
+        "sku": "MMM-SHC-SM-CH",
+        "image": "Marvelous_Marvel_Munchies_var-001.png",
+        "description": "Small Chocolate Marvelous Marvel Munchies Cake",
+        "price": 30,
+        "salePrice": 28,
+        "stock": 10,
+        "attributeValues": {
+          "Size": "Small",
+          "Flavor": "Chocolate"
+        }
+      },
+      {
+        "id": "var-002",
+        "sku": "MMM-SHC-MD-VA",
+        "image": "Marvelous_Marvel_Munchies_var-002.png",
+        "description": "Medium Vanilla Marvelous Marvel Munchies Cake",
+        "price": 40,
+        "salePrice": 36,
+        "stock": 8,
+        "attributeValues": {
+          "Size": "Medium",
+          "Flavor": "Vanilla"
+        }
+      },
+      {
+        "id": "var-003",
+        "sku": "MMM-SHC-LG-RV",
+        "image": "Marvelous_Marvel_Munchies_var-003.png",
+        "description": "Large Red Velvet Marvelous Marvel Munchies Cake",
+        "price": 60,
+        "salePrice": 54,
+        "stock": 7,
+        "attributeValues": {
+          "Size": "Large",
+          "Flavor": "Red Velvet"
+        }
+      }
+    ]
+  },
+  {
+    "id": "AaiZoUkEBE9Qqh3eVw6d",
+    "title": "Barbie's Royal Gala Glaze",
+    "price": 49.99,
+    "salePrice": 39.99,
+    "sku": "BRGG-001",
+    "stock": 20,
+    "date": "2023-10-10",
+    "category": "Theme-Based Cakes",
+    "subCategory": "Barbie Doll Cakes",
+    "productType": "variables",
+    "brand": "Any",
+    "images": [
+      "Barbie's_Royal_Gala_Glaze_var-001.png",
+      "Barbie's_Royal_Gala_Glaze_var-002.png",
+      "Barbie's_Royal_Gala_Glaze_var-003.png"
+    ],
+    "thumbnail": "Barbie's_Royal_Gala_Glaze_var-001.png",
+    "isFeatured": true,
+    "description": "Experience the royal treatment with 'Barbie's Royal Gala Glaze', a stunning theme-based cake perfect for any Barbie fan. Adorned with intricate designs and available in delightful flavors, this cake is sure to make any celebration memorable.",
+    "createdAt": "2023-10-10",
+    "attributes": [
+      {
+        "name": "Flavor",
+        "values": [
+          "Vanilla",
+          "Chocolate",
+          "Strawberry"
+        ]
+      },
+      {
+        "name": "Size",
+        "values": [
+          "Small",
+          "Medium",
+          "Large"
+        ]
+      }
+    ],
+    "variations": [
+      {
+        "id": "var-001",
+        "sku": "BRGG-001-VAN-S",
+        "image": "Barbie's_Royal_Gala_Glaze_var-001.png",
+        "description": "Vanilla flavor, small size",
+        "price": 49.99,
+        "salePrice": 39.99,
+        "stock": 5,
+        "attributeValues": {
+          "Flavor": "Vanilla",
+          "Size": "Small"
+        }
+      },
+      {
+        "id": "var-002",
+        "sku": "BRGG-002-CHO-M",
+        "image": "Barbie's_Royal_Gala_Glaze_var-002.png",
+        "description": "Chocolate flavor, medium size",
+        "price": 59.99,
+        "salePrice": 49.99,
+        "stock": 8,
+        "attributeValues": {
+          "Flavor": "Chocolate",
+          "Size": "Medium"
+        }
+      },
+      {
+        "id": "var-003",
+        "sku": "BRGG-003-STR-L",
+        "image": "Barbie's_Royal_Gala_Glaze_var-003.png",
+        "description": "Strawberry flavor, large size",
+        "price": 69.99,
+        "salePrice": 59.99,
+        "stock": 7,
+        "attributeValues": {
+          "Flavor": "Strawberry",
+          "Size": "Large"
+        }
+      }
+    ]
+  },
+  {
+    "id": "BBdi24OtVyOJRnQgEkbL",
+    "title": "Festivity Flourish",
+    "price": 45.99,
+    "salePrice": 39.99,
+    "sku": "FF-CAKE-001",
+    "stock": 30,
+    "date": "2023-10-05",
+    "category": "Occasion-Based Cakes",
+    "subCategory": "Birthday Cakes",
+    "productType": "variables",
+    "brand": "Sweet Celebrations",
+    "images": [
+      "Festivity_Flourish_FF-CAKE-001-V1.png",
+      "Festivity_Flourish_FF-CAKE-001-V2.png",
+      "Festivity_Flourish_FF-CAKE-001-V3.png"
+    ],
+    "thumbnail": "Festivity_Flourish_FF-CAKE-001-V1.png",
+    "isFeatured": true,
+    "description": "Celebrate birthdays in style with our 'Festivity Flourish' cake. Crafted with the finest ingredients and tailored for joyous occasions, this cake is the perfect centerpiece for any celebration.",
+    "createdAt": "2023-10-05",
+    "attributes": [
+      {
+        "name": "Flavor",
+        "values": [
+          "Vanilla",
+          "Chocolate",
+          "Red Velvet"
+        ]
+      },
+      {
+        "name": "Size",
+        "values": [
+          "6-inch",
+          "8-inch",
+          "10-inch"
+        ]
+      }
+    ],
+    "variations": [
+      {
+        "id": "FF-CAKE-001-V1",
+        "sku": "FF-CAKE-001-VAN-6",
+        "image": "Festivity_Flourish_FF-CAKE-001-V1.png",
+        "description": "6-inch Vanilla Festivity Flourish Cake",
+        "price": 45.99,
+        "salePrice": 39.99,
+        "stock": 10,
+        "attributeValues": {
+          "Flavor": "Vanilla",
+          "Size": "6-inch"
+        }
+      },
+      {
+        "id": "FF-CAKE-001-V2",
+        "sku": "FF-CAKE-001-CHOC-8",
+        "image": "Festivity_Flourish_FF-CAKE-001-V2.png",
+        "description": "8-inch Chocolate Festivity Flourish Cake",
+        "price": 55.99,
+        "salePrice": 49.99,
+        "stock": 10,
+        "attributeValues": {
+          "Flavor": "Chocolate",
+          "Size": "8-inch"
+        }
+      },
+      {
+        "id": "FF-CAKE-001-V3",
+        "sku": "FF-CAKE-001-RV-10",
+        "image": "Festivity_Flourish_FF-CAKE-001-V3.png",
+        "description": "10-inch Red Velvet Festivity Flourish Cake",
+        "price": 65.99,
+        "salePrice": 59.99,
+        "stock": 10,
+        "attributeValues": {
+          "Flavor": "Red Velvet",
+          "Size": "10-inch"
+        }
+      }
+    ]
+  },
+  {
+    "id": "CdscyP3m7JxwPxOQxBnY",
+    "title": "Nuptial Sweethearts Delight",
+    "price": 150,
+    "salePrice": 135,
+    "sku": "NSD-WC-001",
+    "stock": 20,
+    "date": "2023-10-18",
+    "category": "Occasion-Based Cakes",
+    "subCategory": "Wedding Cakes",
+    "productType": "variables",
+    "brand": "Any",
+    "images": [
+      "Nuptial_Sweethearts_Delight_NSD-WC-001-SV.png",
+      "Nuptial_Sweethearts_Delight_NSD-WC-002-MC.png",
+      "Nuptial_Sweethearts_Delight_NSD-WC-003-LRV.png"
+    ],
+    "thumbnail": "Nuptial_Sweethearts_Delight_NSD-WC-001-SV.png",
+    "isFeatured": true,
+    "description": "The Nuptial Sweethearts Delight is a beautifully crafted wedding cake designed to captivate the hearts of every couple. With its delicate layers and intricate decorations, it promises not only a delightful taste but also an unforgettable visual experience.",
+    "createdAt": "2023-10-18",
+    "attributes": [
+      {
+        "name": "Size",
+        "values": [
+          "Small",
+          "Medium",
+          "Large"
+        ]
+      },
+      {
+        "name": "Flavor",
+        "values": [
+          "Vanilla",
+          "Chocolate",
+          "Red Velvet"
+        ]
+      }
+    ],
+    "variations": [
+      {
+        "id": "NSD-WC-001-SV",
+        "sku": "NSD-WC-001-SV",
+        "image": "Nuptial_Sweethearts_Delight_NSD-WC-001-SV.png",
+        "description": "Small Vanilla Nuptial Sweethearts Delight with intricate designs.",
+        "price": 150,
+        "salePrice": 135,
+        "stock": 5,
+        "attributeValues": {
+          "Size": "Small",
+          "Flavor": "Vanilla"
+        }
+      },
+      {
+        "id": "NSD-WC-002-MC",
+        "sku": "NSD-WC-002-MC",
+        "image": "Nuptial_Sweethearts_Delight_NSD-WC-002-MC.png",
+        "description": "Medium Chocolate Nuptial Sweethearts Delight, perfect for intimate ceremonies.",
+        "price": 175,
+        "salePrice": 157.5,
+        "stock": 8,
+        "attributeValues": {
+          "Size": "Medium",
+          "Flavor": "Chocolate"
+        }
+      },
+      {
+        "id": "NSD-WC-003-LRV",
+        "sku": "NSD-WC-003-LRV",
+        "image": "Nuptial_Sweethearts_Delight_NSD-WC-003-LRV.png",
+        "description": "Large Red Velvet Nuptial Sweethearts Delight for grand celebrations.",
+        "price": 200,
+        "salePrice": 180,
+        "stock": 7,
+        "attributeValues": {
+          "Size": "Large",
+          "Flavor": "Red Velvet"
+        }
+      }
+    ]
+  },
+  {
+    "id": "FiceZpfP2W9jvSzyZ0p8",
+    "title": "Java Joy Crumble",
+    "price": 24.99,
+    "salePrice": 19.99,
+    "sku": "JJC-001",
+    "stock": 50,
+    "date": "2023-10-02",
+    "category": "Flavor-Based Cakes",
+    "subCategory": "Coffee Cakes",
+    "productType": "variables",
+    "brand": "Any",
+    "images": [
+      "Java_Joy_Crumble_JJC-001-S.png",
+      "Java_Joy_Crumble_JJC-001-M.png",
+      "Java_Joy_Crumble_JJC-001-L.png"
+    ],
+    "thumbnail": "Java_Joy_Crumble_JJC-001-S.png",
+    "isFeatured": true,
+    "description": "Indulge in the rich, aromatic flavor of our Java Joy Crumble. This coffee cake is infused with premium coffee beans, topped with a buttery crumble, and a hint of cinnamon to delight your taste buds.",
+    "createdAt": "2023-10-02",
+    "attributes": [
+      {
+        "name": "Size",
+        "values": [
+          "Small",
+          "Medium",
+          "Large"
+        ]
+      },
+      {
+        "name": "Nut-free",
+        "values": [
+          "Yes",
+          "No"
+        ]
+      }
+    ],
+    "variations": [
+      {
+        "id": "JJC-001-S",
+        "sku": "JJC-S-001",
+        "image": "Java_Joy_Crumble_JJC-001-S.png",
+        "description": "Small Java Joy Crumble, nut-free",
+        "price": 14.99,
+        "salePrice": 12.99,
+        "stock": 20,
+        "attributeValues": {
+          "Size": "Small",
+          "Nut-free": "Yes"
+        }
+      },
+      {
+        "id": "JJC-001-M",
+        "sku": "JJC-M-002",
+        "image": "Java_Joy_Crumble_JJC-001-M.png",
+        "description": "Medium Java Joy Crumble",
+        "price": 24.99,
+        "salePrice": 19.99,
+        "stock": 20,
+        "attributeValues": {
+          "Size": "Medium",
+          "Nut-free": "No"
+        }
+      },
+      {
+        "id": "JJC-001-L",
+        "sku": "JJC-L-003",
+        "image": "Java_Joy_Crumble_JJC-001-L.png",
+        "description": "Large Java Joy Crumble, nut-free",
+        "price": 34.99,
+        "salePrice": 29.99,
+        "stock": 10,
+        "attributeValues": {
+          "Size": "Large",
+          "Nut-free": "Yes"
+        }
+      }
+    ]
+  },
+  {
+    "id": "JFQh5PL4z18VTjVnfPaF",
+    "title": "Scarlet Bliss Indulgence",
+    "price": 29.99,
+    "salePrice": 24.99,
+    "sku": "SBI-RV-001",
+    "stock": 50,
+    "date": "2024-01-01",
+    "category": "Flavor-Based Cakes",
+    "subCategory": "Red Velvet Cakes",
+    "productType": "variables",
+    "brand": "Delightful Desserts",
+    "images": [
+      "Scarlet_Bliss_Indulgence_var1.png",
+      "Scarlet_Bliss_Indulgence_var2.png",
+      "Scarlet_Bliss_Indulgence_var3.png"
+    ],
+    "thumbnail": "Scarlet_Bliss_Indulgence_var1.png",
+    "isFeatured": true,
+    "description": "Experience the luxurious taste of our Scarlet Bliss Indulgence, a decadent red velvet cake that's perfect for any celebration. Made with the finest ingredients, each bite is a moment of pure bliss.",
+    "createdAt": "2023-11-23",
+    "attributes": [
+      {
+        "name": "Size",
+        "values": [
+          "6-inch",
+          "9-inch",
+          "12-inch"
+        ]
+      },
+      {
+        "name": "Frosting Type",
+        "values": [
+          "Cream Cheese",
+          "Buttercream",
+          "Whipped Cream"
+        ]
+      }
+    ],
+    "variations": [
+      {
+        "id": "var1",
+        "sku": "SBI-RV-6CC",
+        "image": "Scarlet_Bliss_Indulgence_var1.png",
+        "description": "6-inch Red Velvet Cake with Cream Cheese Frosting",
+        "price": 29.99,
+        "salePrice": 24.99,
+        "stock": 20,
+        "attributeValues": {
+          "Size": "6-inch",
+          "Frosting Type": "Cream Cheese"
+        }
+      },
+      {
+        "id": "var2",
+        "sku": "SBI-RV-9BC",
+        "image": "Scarlet_Bliss_Indulgence_var2.png",
+        "description": "9-inch Red Velvet Cake with Buttercream Frosting",
+        "price": 39.99,
+        "salePrice": 34.99,
+        "stock": 15,
+        "attributeValues": {
+          "Size": "9-inch",
+          "Frosting Type": "Buttercream"
+        }
+      },
+      {
+        "id": "var3",
+        "sku": "SBI-RV-12WC",
+        "image": "Scarlet_Bliss_Indulgence_var3.png",
+        "description": "12-inch Red Velvet Cake with Whipped Cream Frosting",
+        "price": 49.99,
+        "salePrice": 44.99,
+        "stock": 15,
+        "attributeValues": {
+          "Size": "12-inch",
+          "Frosting Type": "Whipped Cream"
+        }
+      }
+    ]
+  },
+  {
+    "id": "JhJa8g7sV9JAinQcudOo",
+    "title": "SuperPower Sugar Rush",
+    "price": 45.99,
+    "salePrice": 39.99,
+    "sku": "SPR-CMK-001",
+    "stock": 25,
+    "date": "2023-10-19",
+    "category": "Theme-Based Cakes",
+    "subCategory": "Superhero Cakes",
+    "productType": "variables",
+    "brand": "Any",
+    "images": [
+      "SuperPower_Sugar_Rush_v1.png",
+      "SuperPower_Sugar_Rush_v2.png",
+      "SuperPower_Sugar_Rush_v3.png"
+    ],
+    "thumbnail": "SuperPower_Sugar_Rush_v1.png",
+    "isFeatured": true,
+    "description": "Unleash your inner superhero with the 'SuperPower Sugar Rush' cake, a delightful and themed masterpiece perfect for themed parties and special occasions. Crafted with high-quality ingredients and available in various exciting superhero designs.",
+    "createdAt": "2023-10-19",
+    "attributes": [
+      {
+        "name": "Size",
+        "values": [
+          "Small",
+          "Medium",
+          "Large"
+        ]
+      },
+      {
+        "name": "Flavor",
+        "values": [
+          "Vanilla",
+          "Chocolate",
+          "Red Velvet"
+        ]
+      }
+    ],
+    "variations": [
+      {
+        "id": "v1",
+        "sku": "SPR-CMK-001-S-V",
+        "image": "SuperPower_Sugar_Rush_v1.png",
+        "description": "SuperPower Sugar Rush - Small Vanilla",
+        "price": 45.99,
+        "salePrice": 39.99,
+        "stock": 10,
+        "attributeValues": {
+          "Size": "Small",
+          "Flavor": "Vanilla"
+        }
+      },
+      {
+        "id": "v2",
+        "sku": "SPR-CMK-001-M-C",
+        "image": "SuperPower_Sugar_Rush_v2.png",
+        "description": "SuperPower Sugar Rush - Medium Chocolate",
+        "price": 55.99,
+        "salePrice": 49.99,
+        "stock": 8,
+        "attributeValues": {
+          "Size": "Medium",
+          "Flavor": "Chocolate"
+        }
+      },
+      {
+        "id": "v3",
+        "sku": "SPR-CMK-001-L-RV",
+        "image": "SuperPower_Sugar_Rush_v3.png",
+        "description": "SuperPower Sugar Rush - Large Red Velvet",
+        "price": 65.99,
+        "salePrice": 59.99,
+        "stock": 7,
+        "attributeValues": {
+          "Size": "Large",
+          "Flavor": "Red Velvet"
+        }
+      }
+    ]
+  },
+  {
+    "id": "LJHjAkqtQIeloJisTieb",
+    "title": "Velvet Cocoa Dreams",
+    "price": 25.99,
+    "salePrice": 19.99,
+    "sku": "VCD-CHC-001",
+    "stock": 50,
+    "date": "2023-10-11",
+    "category": "Flavor-Based Cakes",
+    "subCategory": "Chocolate Cakes",
+    "productType": "variables",
+    "brand": "Any",
+    "images": [
+      "Velvet_Cocoa_Dreams_vcd-var-001.png",
+      "Velvet_Cocoa_Dreams_vcd-var-002.png",
+      "Velvet_Cocoa_Dreams_vcd-var-003.png"
+    ],
+    "thumbnail": "Velvet_Cocoa_Dreams_vcd-var-001.png",
+    "isFeatured": true,
+    "description": "Indulge in the rich and decadent Velvet Cocoa Dreams, a sumptuous chocolate cake that promises to delight every chocolate lover's palate. Made with the finest cocoa, this cake is a celebration of flavor and texture.",
+    "createdAt": "2023-10-11",
+    "attributes": [
+      {
+        "name": "Size",
+        "values": [
+          "6-inch",
+          "8-inch",
+          "10-inch"
+        ]
+      },
+      {
+        "name": "Decoration",
+        "values": [
+          "Classic",
+          "With Sprinkles",
+          "With Nuts"
+        ]
+      }
+    ],
+    "variations": [
+      {
+        "id": "vcd-var-001",
+        "sku": "VCD-CHC-6CL",
+        "image": "Velvet_Cocoa_Dreams_vcd-var-001.png",
+        "description": "6-inch Velvet Cocoa Dreams with classic decoration.",
+        "price": 25.99,
+        "salePrice": 19.99,
+        "stock": 20,
+        "attributeValues": {
+          "Size": "6-inch",
+          "Decoration": "Classic"
+        }
+      },
+      {
+        "id": "vcd-var-002",
+        "sku": "VCD-CHC-8SP",
+        "image": "Velvet_Cocoa_Dreams_vcd-var-002.png",
+        "description": "8-inch Velvet Cocoa Dreams with sprinkles.",
+        "price": 35.99,
+        "salePrice": 29.99,
+        "stock": 15,
+        "attributeValues": {
+          "Size": "8-inch",
+          "Decoration": "With Sprinkles"
+        }
+      },
+      {
+        "id": "vcd-var-003",
+        "sku": "VCD-CHC-10NT",
+        "image": "Velvet_Cocoa_Dreams_vcd-var-003.png",
+        "description": "10-inch Velvet Cocoa Dreams topped with crunchy nuts.",
+        "price": 45.99,
+        "salePrice": 39.99,
+        "stock": 15,
+        "attributeValues": {
+          "Size": "10-inch",
+          "Decoration": "With Nuts"
+        }
+      }
+    ]
+  },
+  {
+    "id": "O79teE53aIwsMcSQ54Ly",
+    "title": "Crimson Velvet Symphony",
+    "price": 29.99,
+    "salePrice": 24.99,
+    "sku": "CVS-RED-VEL-001",
+    "stock": 50,
+    "date": "2023-10-07",
+    "category": "Flavor-Based Cakes",
+    "subCategory": "Red Velvet Cakes",
+    "productType": "variables",
+    "brand": "Any",
+    "images": [
+      "Crimson_Velvet_Symphony_CVS-RED-6-CC.png",
+      "Crimson_Velvet_Symphony_CVS-RED-8-BC.png",
+      "Crimson_Velvet_Symphony_CVS-RED-10-WC.png"
+    ],
+    "thumbnail": "Crimson_Velvet_Symphony_CVS-RED-6-CC.png",
+    "isFeatured": true,
+    "description": "Indulge in the rich, velvety texture of our Crimson Velvet Symphony, a delicately crafted red velvet cake that promises to captivate your taste buds with its creamy frosting and vibrant hue.",
+    "createdAt": "2023-10-07",
+    "attributes": [
+      {
+        "name": "Size",
+        "values": [
+          "6-inch",
+          "8-inch",
+          "10-inch"
+        ]
+      },
+      {
+        "name": "Frosting",
+        "values": [
+          "Cream Cheese",
+          "Buttercream",
+          "Whipped Cream"
+        ]
+      }
+    ],
+    "variations": [
+      {
+        "id": "CVS-RED-6-CC",
+        "sku": "CVS-RED-6-CC",
+        "image": "Crimson_Velvet_Symphony_CVS-RED-6-CC.png",
+        "description": "6-inch Crimson Velvet Symphony with Cream Cheese Frosting",
+        "price": 19.99,
+        "salePrice": 15.99,
+        "stock": 20,
+        "attributeValues": {
+          "Size": "6-inch",
+          "Frosting": "Cream Cheese"
+        }
+      },
+      {
+        "id": "CVS-RED-8-BC",
+        "sku": "CVS-RED-8-BC",
+        "image": "Crimson_Velvet_Symphony_CVS-RED-8-BC.png",
+        "description": "8-inch Crimson Velvet Symphony with Buttercream Frosting",
+        "price": 29.99,
+        "salePrice": 24.99,
+        "stock": 15,
+        "attributeValues": {
+          "Size": "8-inch",
+          "Frosting": "Buttercream"
+        }
+      },
+      {
+        "id": "CVS-RED-10-WC",
+        "sku": "CVS-RED-10-WC",
+        "image": "Crimson_Velvet_Symphony_CVS-RED-10-WC.png",
+        "description": "10-inch Crimson Velvet Symphony with Whipped Cream Frosting",
+        "price": 39.99,
+        "salePrice": 34.99,
+        "stock": 10,
+        "attributeValues": {
+          "Size": "10-inch",
+          "Frosting": "Whipped Cream"
+        }
+      }
+    ]
+  },
+  {
+    "id": "SSoJzPQYldNmaP3z5Vfa",
+    "title": "Forever Fancy Tiers",
+    "price": 350,
+    "salePrice": 325,
+    "sku": "FFT-WC-001",
+    "stock": 15,
+    "date": "2023-10-07",
+    "category": "Occasion-Based Cakes",
+    "subCategory": "Wedding Cakes",
+    "productType": "variables",
+    "brand": "Any",
+    "images": [
+      "Forever_Fancy_Tiers_1.png",
+      "Forever_Fancy_Tiers_2.png",
+      "Forever_Fancy_Tiers_3.png"
+    ],
+    "thumbnail": "Forever_Fancy_Tiers_1.png",
+    "isFeatured": true,
+    "description": "The Forever Fancy Tiers wedding cake is an exquisite multi-layered cake that promises elegance and taste. Perfect for the grandest of celebrations, it comes in various flavors and décor styles to match your wedding theme.",
+    "createdAt": "2023-10-07",
+    "attributes": [
+      {
+        "name": "Flavor",
+        "values": [
+          "Vanilla",
+          "Chocolate",
+          "Red Velvet"
+        ]
+      },
+      {
+        "name": "Decoration Style",
+        "values": [
+          "Classic",
+          "Modern",
+          "Floral"
+        ]
+      }
+    ],
+    "variations": [
+      {
+        "id": "1",
+        "sku": "FFT-WC-001-VAN-CL",
+        "image": "Forever_Fancy_Tiers_1.png",
+        "description": "Vanilla flavor with Classic decoration style.",
+        "price": 350,
+        "salePrice": 325,
+        "stock": 5,
+        "attributeValues": {
+          "Flavor": "Vanilla",
+          "Decoration Style": "Classic"
+        }
+      },
+      {
+        "id": "2",
+        "sku": "FFT-WC-002-CH-MOD",
+        "image": "Forever_Fancy_Tiers_2.png",
+        "description": "Chocolate flavor with Modern decoration style.",
+        "price": 350,
+        "salePrice": 325,
+        "stock": 5,
+        "attributeValues": {
+          "Flavor": "Chocolate",
+          "Decoration Style": "Modern"
+        }
+      },
+      {
+        "id": "3",
+        "sku": "FFT-WC-003-RV-FL",
+        "image": "Forever_Fancy_Tiers_3.png",
+        "description": "Red Velvet flavor with Floral decoration style.",
+        "price": 350,
+        "salePrice": 325,
+        "stock": 5,
+        "attributeValues": {
+          "Flavor": "Red Velvet",
+          "Decoration Style": "Floral"
+        }
+      }
+    ]
+  },
+  {
+    "id": "WiutWt7DgD8iuX1ekE40",
+    "title": "Forever Fondant",
+    "price": 120,
+    "salePrice": 100,
+    "sku": "FF-ENG-001",
+    "stock": 15,
+    "date": "2023-10-01",
+    "category": "Occasion-Based Cakes",
+    "subCategory": "Engagement Cakes",
+    "productType": "variables",
+    "brand": "Any",
+    "images": [
+      "Forever_Fondant_FF-ENG-001-V1.png",
+      "Forever_Fondant_FF-ENG-001-V2.png",
+      "Forever_Fondant_FF-ENG-001-V3.png"
+    ],
+    "thumbnail": "Forever_Fondant_FF-ENG-001-V1.png",
+    "isFeatured": true,
+    "description": "The Forever Fondant Engagement Cake is a delicate masterpiece designed to celebrate love. Customizable with flavors and colors, it brings a personal touch to any engagement celebration.",
+    "createdAt": "2023-10-01",
+    "attributes": [
+      {
+        "name": "Flavor",
+        "values": [
+          "Vanilla",
+          "Chocolate",
+          "Red Velvet"
+        ]
+      },
+      {
+        "name": "Size",
+        "values": [
+          "6 inches",
+          "8 inches",
+          "10 inches"
+        ]
+      }
+    ],
+    "variations": [
+      {
+        "id": "FF-ENG-001-V1",
+        "sku": "FF-ENG-001-V1",
+        "image": "Forever_Fondant_FF-ENG-001-V1.png",
+        "description": "Vanilla Flavor, 6 inches",
+        "price": 100,
+        "salePrice": 85,
+        "stock": 5,
+        "attributeValues": {
+          "Flavor": "Vanilla",
+          "Size": "6 inches"
+        }
+      },
+      {
+        "id": "FF-ENG-001-V2",
+        "sku": "FF-ENG-001-V2",
+        "image": "Forever_Fondant_FF-ENG-001-V2.png",
+        "description": "Chocolate Flavor, 8 inches",
+        "price": 110,
+        "salePrice": 95,
+        "stock": 5,
+        "attributeValues": {
+          "Flavor": "Chocolate",
+          "Size": "8 inches"
+        }
+      },
+      {
+        "id": "FF-ENG-001-V3",
+        "sku": "FF-ENG-001-V3",
+        "image": "Forever_Fondant_FF-ENG-001-V3.png",
+        "description": "Red Velvet Flavor, 10 inches",
+        "price": 120,
+        "salePrice": 100,
+        "stock": 5,
+        "attributeValues": {
+          "Flavor": "Red Velvet",
+          "Size": "10 inches"
+        }
+      }
+    ]
+  },
+  {
+    "id": "aBeLAZU67BGyvdVpDhWc",
+    "title": "Heroic Delight Delicacy",
+    "price": 59.99,
+    "salePrice": 49.99,
+    "sku": "HD-SHC-001",
+    "stock": 15,
+    "date": "2023-10-05",
+    "category": "Theme-Based Cakes",
+    "subCategory": "Superhero Cakes",
+    "productType": "variables",
+    "brand": "Any",
+    "images": [
+      "Heroic_Delight_Delicacy_var1.png",
+      "Heroic_Delight_Delicacy_var2.png",
+      "Heroic_Delight_Delicacy_var3.png"
+    ],
+    "thumbnail": "Heroic_Delight_Delicacy_var1.png",
+    "isFeatured": true,
+    "description": "The Heroic Delight Delicacy is a themed cake perfect for superhero enthusiasts. Made with layers of rich chocolate and vanilla sponge, decorated with colorful fondant featuring your favorite superhero designs.",
+    "createdAt": "2023-10-05",
+    "attributes": [
+      {
+        "name": "Size",
+        "values": [
+          "Small",
+          "Medium",
+          "Large"
+        ]
+      },
+      {
+        "name": "Flavor",
+        "values": [
+          "Chocolate",
+          "Vanilla",
+          "Red Velvet"
+        ]
+      }
+    ],
+    "variations": [
+      {
+        "id": "var1",
+        "sku": "HD-SHC-001-SC",
+        "image": "Heroic_Delight_Delicacy_var1.png",
+        "description": "Small Chocolate Superhero Cake",
+        "price": 59.99,
+        "salePrice": 49.99,
+        "stock": 5,
+        "attributeValues": {
+          "Size": "Small",
+          "Flavor": "Chocolate"
+        }
+      },
+      {
+        "id": "var2",
+        "sku": "HD-SHC-001-MV",
+        "image": "Heroic_Delight_Delicacy_var2.png",
+        "description": "Medium Vanilla Superhero Cake",
+        "price": 69.99,
+        "salePrice": 59.99,
+        "stock": 5,
+        "attributeValues": {
+          "Size": "Medium",
+          "Flavor": "Vanilla"
+        }
+      },
+      {
+        "id": "var3",
+        "sku": "HD-SHC-001-LR",
+        "image": "Heroic_Delight_Delicacy_var3.png",
+        "description": "Large Red Velvet Superhero Cake",
+        "price": 79.99,
+        "salePrice": 69.99,
+        "stock": 5,
+        "attributeValues": {
+          "Size": "Large",
+          "Flavor": "Red Velvet"
+        }
+      }
+    ]
+  },
+  {
+    "id": "c5h5oBQCmdbLVyQHxkPv",
+    "title": "Celebration Symphony",
+    "price": 45,
+    "salePrice": 40,
+    "sku": "CS-BDAY-001",
+    "stock": 10,
+    "date": "2023-10-11",
+    "category": "Occasion-Based Cakes",
+    "subCategory": "Birthday Cakes",
+    "productType": "variables",
+    "brand": "Any",
+    "images": [
+      "Celebration_Symphony_var1.png",
+      "Celebration_Symphony_var2.png",
+      "Celebration_Symphony_var3.png"
+    ],
+    "thumbnail": "Celebration_Symphony_var1.png",
+    "isFeatured": true,
+    "description": "The 'Celebration Symphony' cake is the perfect centerpiece for any birthday party. This delightful cake offers a symphony of flavors and a visual masterpiece that is sure to impress.",
+    "createdAt": "2023-10-11",
+    "attributes": [
+      {
+        "name": "Flavor",
+        "values": [
+          "Chocolate",
+          "Vanilla",
+          "Red Velvet"
+        ]
+      },
+      {
+        "name": "Size",
+        "values": [
+          "6-inch",
+          "8-inch",
+          "10-inch"
+        ]
+      }
+    ],
+    "variations": [
+      {
+        "id": "var1",
+        "sku": "CS-BDAY-001-CHOC-6",
+        "image": "Celebration_Symphony_var1.png",
+        "description": "Chocolate flavor, 6-inch size.",
+        "price": 45,
+        "salePrice": 40,
+        "stock": 5,
+        "attributeValues": {
+          "Flavor": "Chocolate",
+          "Size": "6-inch"
+        }
+      },
+      {
+        "id": "var2",
+        "sku": "CS-BDAY-001-VAN-8",
+        "image": "Celebration_Symphony_var2.png",
+        "description": "Vanilla flavor, 8-inch size.",
+        "price": 50,
+        "salePrice": 45,
+        "stock": 3,
+        "attributeValues": {
+          "Flavor": "Vanilla",
+          "Size": "8-inch"
+        }
+      },
+      {
+        "id": "var3",
+        "sku": "CS-BDAY-001-RV-10",
+        "image": "Celebration_Symphony_var3.png",
+        "description": "Red Velvet flavor, 10-inch size.",
+        "price": 55,
+        "salePrice": 50,
+        "stock": 2,
+        "attributeValues": {
+          "Flavor": "Red Velvet",
+          "Size": "10-inch"
+        }
+      }
+    ]
+  },
+  {
+    "id": "fXiM1VgEahDND0kSDFfg",
+    "title": "Espresso Euphoria Indulgence",
+    "price": 25.99,
+    "salePrice": 19.99,
+    "sku": "EEIC-001",
+    "stock": 50,
+    "date": "2023-10-12",
+    "category": "Flavor-Based Cakes",
+    "subCategory": "Coffee Cakes",
+    "productType": "variables",
+    "brand": "Any",
+    "images": [
+      "Espresso_Euphoria_Indulgence_EEIV-001.png",
+      "Espresso_Euphoria_Indulgence_EEIV-002.png",
+      "Espresso_Euphoria_Indulgence_EEIV-003.png"
+    ],
+    "thumbnail": "Espresso_Euphoria_Indulgence_EEIV-001.png",
+    "isFeatured": true,
+    "description": "Indulge in the rich, aromatic world of our Espresso Euphoria Indulgence. This exquisite coffee cake perfectly balances the deep flavors of espresso with a delightful sweetness, making it the ideal treat for coffee lovers.",
+    "createdAt": "2023-10-12",
+    "attributes": [
+      {
+        "name": "Size",
+        "values": [
+          "Small",
+          "Medium",
+          "Large"
+        ]
+      },
+      {
+        "name": "Topping",
+        "values": [
+          "Chocolate Shavings",
+          "Caramel Drizzle",
+          "Nut Crunch"
+        ]
+      }
+    ],
+    "variations": [
+      {
+        "id": "EEIV-001",
+        "sku": "EEIC-001-S",
+        "image": "Espresso_Euphoria_Indulgence_EEIV-001.png",
+        "description": "Small size with Chocolate Shavings topping.",
+        "price": 25.99,
+        "salePrice": 19.99,
+        "stock": 20,
+        "attributeValues": {
+          "Size": "Small",
+          "Topping": "Chocolate Shavings"
+        }
+      },
+      {
+        "id": "EEIV-002",
+        "sku": "EEIC-002-M",
+        "image": "Espresso_Euphoria_Indulgence_EEIV-002.png",
+        "description": "Medium size with Caramel Drizzle topping.",
+        "price": 28.99,
+        "salePrice": 22.99,
+        "stock": 15,
+        "attributeValues": {
+          "Size": "Medium",
+          "Topping": "Caramel Drizzle"
+        }
+      },
+      {
+        "id": "EEIV-003",
+        "sku": "EEIC-003-L",
+        "image": "Espresso_Euphoria_Indulgence_EEIV-003.png",
+        "description": "Large size with Nut Crunch topping.",
+        "price": 32.99,
+        "salePrice": 25.99,
+        "stock": 15,
+        "attributeValues": {
+          "Size": "Large",
+          "Topping": "Nut Crunch"
+        }
+      }
+    ]
+  },
+  {
+    "id": "gBGrK2QD6mzQNzyoUIFK",
+    "title": "Dreamhouse Delicacy Decadence",
+    "price": 79.99,
+    "salePrice": 69.99,
+    "sku": "BBDC-001",
+    "stock": 25,
+    "date": "2023-11-29",
+    "category": "Theme-Based Cakes",
+    "subCategory": "Barbie Doll Cakes",
+    "productType": "variables",
+    "brand": "Any",
+    "images": [
+      "Dreamhouse_Delicacy_Decadence_BBDC-001-SV.png",
+      "Dreamhouse_Delicacy_Decadence_BBDC-001-MC.png",
+      "Dreamhouse_Delicacy_Decadence_BBDC-001-LS.png"
+    ],
+    "thumbnail": "Dreamhouse_Delicacy_Decadence_BBDC-001-SV.png",
+    "isFeatured": true,
+    "description": "Elevate your celebrations with our Dreamhouse Delicacy Decadence. This exquisite Barbie Doll Cake is perfect for a dream-themed party, featuring intricate designs and delightful flavors that enchant both eyes and taste buds.",
+    "createdAt": "2023-11-29",
+    "attributes": [
+      {
+        "name": "Size",
+        "values": [
+          "Small",
+          "Medium",
+          "Large"
+        ]
+      },
+      {
+        "name": "Flavor",
+        "values": [
+          "Vanilla",
+          "Chocolate",
+          "Strawberry"
+        ]
+      }
+    ],
+    "variations": [
+      {
+        "id": "BBDC-001-SV",
+        "sku": "BBDC-001-SV",
+        "image": "Dreamhouse_Delicacy_Decadence_BBDC-001-SV.png",
+        "description": "Small Vanilla Dreamhouse Delicacy Decadence",
+        "price": 69.99,
+        "salePrice": 59.99,
+        "stock": 10,
+        "attributeValues": {
+          "Size": "Small",
+          "Flavor": "Vanilla"
+        }
+      },
+      {
+        "id": "BBDC-001-MC",
+        "sku": "BBDC-001-MC",
+        "image": "Dreamhouse_Delicacy_Decadence_BBDC-001-MC.png",
+        "description": "Medium Chocolate Dreamhouse Delicacy Decadence",
+        "price": 79.99,
+        "salePrice": 69.99,
+        "stock": 8,
+        "attributeValues": {
+          "Size": "Medium",
+          "Flavor": "Chocolate"
+        }
+      },
+      {
+        "id": "BBDC-001-LS",
+        "sku": "BBDC-001-LS",
+        "image": "Dreamhouse_Delicacy_Decadence_BBDC-001-LS.png",
+        "description": "Large Strawberry Dreamhouse Delicacy Decadence",
+        "price": 99.99,
+        "salePrice": 89.99,
+        "stock": 7,
+        "attributeValues": {
+          "Size": "Large",
+          "Flavor": "Strawberry"
+        }
+      }
+    ]
+  },
+  {
+    "id": "kOpMBQLVs3b2qLWLPf9J",
+    "title": "SketchFest Sweetness",
+    "price": 45.99,
+    "salePrice": 39.99,
+    "sku": "SFS-CC-001",
+    "stock": 15,
+    "date": "2023-10-14",
+    "category": "Theme-Based Cakes",
+    "subCategory": "Cartoon Character Cakes",
+    "productType": "variables",
+    "brand": "CakeCraft",
+    "images": [
+      "SketchFest_Sweetness_0001.png",
+      "SketchFest_Sweetness_0002.png",
+      "SketchFest_Sweetness_0003.png"
+    ],
+    "thumbnail": "SketchFest_Sweetness_0001.png",
+    "isFeatured": true,
+    "description": "Delight your little ones with the SketchFest Sweetness cake series. Each cake captures the magic of their favorite cartoon characters in deliciously vibrant detail. Perfect for birthdays, parties, and special occasions.",
+    "createdAt": "2023-10-14",
+    "attributes": [
+      {
+        "name": "Size",
+        "values": [
+          "Small - 6 inches",
+          "Medium - 8 inches",
+          "Large - 10 inches"
+        ]
+      },
+      {
+        "name": "Flavor",
+        "values": [
+          "Vanilla",
+          "Chocolate",
+          "Strawberry"
+        ]
+      }
+    ],
+    "variations": [
+      {
+        "id": "0001",
+        "sku": "SFS-CC-001-S-V",
+        "image": "SketchFest_Sweetness_0001.png",
+        "description": "Small Vanilla SketchFest Sweetness Cake",
+        "price": 45.99,
+        "salePrice": 39.99,
+        "stock": 5,
+        "attributeValues": {
+          "Size": "Small - 6 inches",
+          "Flavor": "Vanilla"
+        }
+      },
+      {
+        "id": "0002",
+        "sku": "SFS-CC-001-M-C",
+        "image": "SketchFest_Sweetness_0002.png",
+        "description": "Medium Chocolate SketchFest Sweetness Cake",
+        "price": 55.99,
+        "salePrice": 49.99,
+        "stock": 5,
+        "attributeValues": {
+          "Size": "Medium - 8 inches",
+          "Flavor": "Chocolate"
+        }
+      },
+      {
+        "id": "0003",
+        "sku": "SFS-CC-001-L-S",
+        "image": "SketchFest_Sweetness_0003.png",
+        "description": "Large Strawberry SketchFest Sweetness Cake",
+        "price": 65.99,
+        "salePrice": 59.99,
+        "stock": 5,
+        "attributeValues": {
+          "Size": "Large - 10 inches",
+          "Flavor": "Strawberry"
+        }
+      }
+    ]
+  },
+  {
+    "id": "msQsKorXJv5IcRvrW9Ve",
+    "title": "Mocha Meltdown Delight",
+    "price": 24.99,
+    "salePrice": 19.99,
+    "sku": "MMD-CAKE-001",
+    "stock": 50,
+    "date": "2023-10-05",
+    "category": "Flavor-Based Cakes",
+    "subCategory": "Coffee Cakes",
+    "productType": "variables",
+    "brand": "Any",
+    "images": [
+      "Mocha_Meltdown_Delight_VAR-001.png",
+      "Mocha_Meltdown_Delight_VAR-002.png",
+      "Mocha_Meltdown_Delight_VAR-003.png"
+    ],
+    "thumbnail": "Mocha_Meltdown_Delight_VAR-001.png",
+    "isFeatured": true,
+    "description": "Indulge in the ultimate coffee-infused delight with our Mocha Meltdown Delight cake. Perfect for coffee lovers, this moist and flavorful cake is infused with rich espresso and topped with a luscious mocha glaze. An ideal treat for any occasion.",
+    "createdAt": "2023-10-05",
+    "attributes": [
+      {
+        "name": "Size",
+        "values": [
+          "Small",
+          "Medium",
+          "Large"
+        ]
+      },
+      {
+        "name": "Topping",
+        "values": [
+          "Mocha Glaze",
+          "Espresso Frosting"
+        ]
+      }
+    ],
+    "variations": [
+      {
+        "id": "VAR-001",
+        "sku": "MMD-CAKE-SM-MG",
+        "image": "Mocha_Meltdown_Delight_VAR-001.png",
+        "description": "Mocha Meltdown Delight - Small Size with Mocha Glaze",
+        "price": 19.99,
+        "salePrice": 14.99,
+        "stock": 20,
+        "attributeValues": {
+          "Size": "Small",
+          "Topping": "Mocha Glaze"
+        }
+      },
+      {
+        "id": "VAR-002",
+        "sku": "MMD-CAKE-MD-EF",
+        "image": "Mocha_Meltdown_Delight_VAR-002.png",
+        "description": "Mocha Meltdown Delight - Medium Size with Espresso Frosting",
+        "price": 24.99,
+        "salePrice": 19.99,
+        "stock": 15,
+        "attributeValues": {
+          "Size": "Medium",
+          "Topping": "Espresso Frosting"
+        }
+      },
+      {
+        "id": "VAR-003",
+        "sku": "MMD-CAKE-LG-MG",
+        "image": "Mocha_Meltdown_Delight_VAR-003.png",
+        "description": "Mocha Meltdown Delight - Large Size with Mocha Glaze",
+        "price": 29.99,
+        "salePrice": 24.99,
+        "stock": 15,
+        "attributeValues": {
+          "Size": "Large",
+          "Topping": "Mocha Glaze"
+        }
+      }
+    ]
+  },
+  {
+    "id": "opO1Oz4YhweouhKXxt5N",
+    "title": "Animated Delights",
+    "price": 50,
+    "salePrice": 45,
+    "sku": "AD-CC-001",
+    "stock": 20,
+    "date": "2023-10-10",
+    "category": "Theme-Based Cakes",
+    "subCategory": "Cartoon Character Cakes",
+    "productType": "variables",
+    "brand": "Any",
+    "images": [
+      "Animated_Delights_v1.png",
+      "Animated_Delights_v2.png",
+      "Animated_Delights_v3.png"
+    ],
+    "thumbnail": "Animated_Delights_v1.png",
+    "isFeatured": true,
+    "description": "Bring your favorite cartoon characters to life with our delightful 'Animated Delights' cakes. Perfect for birthday parties and special celebrations, each cake is crafted with love and designed to enchant children and adults alike.",
+    "createdAt": "2023-10-10",
+    "attributes": [
+      {
+        "name": "Size",
+        "values": [
+          "Small",
+          "Medium",
+          "Large"
+        ]
+      },
+      {
+        "name": "Character",
+        "values": [
+          "Mickey Mouse",
+          "SpongeBob",
+          "Peppa Pig"
+        ]
+      }
+    ],
+    "variations": [
+      {
+        "id": "v1",
+        "sku": "AD-CC-001-SM-MM",
+        "image": "Animated_Delights_v1.png",
+        "description": "Small Mickey Mouse Cake",
+        "price": 45,
+        "salePrice": 40,
+        "stock": 5,
+        "attributeValues": {
+          "Size": "Small",
+          "Character": "Mickey Mouse"
+        }
+      },
+      {
+        "id": "v2",
+        "sku": "AD-CC-002-MD-SB",
+        "image": "Animated_Delights_v2.png",
+        "description": "Medium SpongeBob Cake",
+        "price": 55,
+        "salePrice": 50,
+        "stock": 8,
+        "attributeValues": {
+          "Size": "Medium",
+          "Character": "SpongeBob"
+        }
+      },
+      {
+        "id": "v3",
+        "sku": "AD-CC-003-LG-PP",
+        "image": "Animated_Delights_v3.png",
+        "description": "Large Peppa Pig Cake",
+        "price": 65,
+        "salePrice": 60,
+        "stock": 7,
+        "attributeValues": {
+          "Size": "Large",
+          "Character": "Peppa Pig"
+        }
+      }
+    ]
+  },
+  {
+    "id": "rB2YuPBNDeAjcYRmlIjg",
+    "title": "Matrimonial Bliss Confections",
+    "price": 299.99,
+    "salePrice": 249.99,
+    "sku": "MBC-WC-001",
+    "stock": 15,
+    "date": "2023-10-05",
+    "category": "Occasion-Based Cakes",
+    "subCategory": "Wedding Cakes",
+    "productType": "variables",
+    "brand": "Sweet Celebrations",
+    "images": [
+      "Matrimonial_Bliss_Confections_var1.png",
+      "Matrimonial_Bliss_Confections_var2.png",
+      "Matrimonial_Bliss_Confections_var3.png"
+    ],
+    "thumbnail": "Matrimonial_Bliss_Confections_var1.png",
+    "isFeatured": true,
+    "description": "Celebrate your special day with our exquisite Matrimonial Bliss Confections. Designed to be the centerpiece of your celebration, these wedding cakes offer a perfect blend of elegance and taste.",
+    "createdAt": "2023-10-05",
+    "attributes": [
+      {
+        "name": "Size",
+        "values": [
+          "Small",
+          "Medium",
+          "Large"
+        ]
+      },
+      {
+        "name": "Flavor",
+        "values": [
+          "Vanilla",
+          "Chocolate",
+          "Red Velvet"
+        ]
+      }
+    ],
+    "variations": [
+      {
+        "id": "var1",
+        "sku": "MBC-WC-001-SV",
+        "image": "Matrimonial_Bliss_Confections_var1.png",
+        "description": "Small Vanilla Wedding Cake",
+        "price": 299.99,
+        "salePrice": 249.99,
+        "stock": 5,
+        "attributeValues": {
+          "Size": "Small",
+          "Flavor": "Vanilla"
+        }
+      },
+      {
+        "id": "var2",
+        "sku": "MBC-WC-002-MC",
+        "image": "Matrimonial_Bliss_Confections_var2.png",
+        "description": "Medium Chocolate Wedding Cake",
+        "price": 399.99,
+        "salePrice": 339.99,
+        "stock": 7,
+        "attributeValues": {
+          "Size": "Medium",
+          "Flavor": "Chocolate"
+        }
+      },
+      {
+        "id": "var3",
+        "sku": "MBC-WC-003-LR",
+        "image": "Matrimonial_Bliss_Confections_var3.png",
+        "description": "Large Red Velvet Wedding Cake",
+        "price": 499.99,
+        "salePrice": 429.99,
+        "stock": 3,
+        "attributeValues": {
+          "Size": "Large",
+          "Flavor": "Red Velvet"
+        }
+      }
+    ]
+  },
+  {
+    "id": "rfcKdZ4Sv7vLd4p3xmYD",
+    "title": "Fashionista Fondant Fantasy",
+    "price": 89.99,
+    "salePrice": 79.99,
+    "sku": "FFF12345",
+    "stock": 15,
+    "date": "2023-10-06",
+    "category": "Theme-Based Cakes",
+    "subCategory": "Barbie Doll Cakes",
+    "productType": "variables",
+    "brand": "Any",
+    "images": [
+      "Fashionista_Fondant_Fantasy_var1.png",
+      "Fashionista_Fondant_Fantasy_var2.png",
+      "Fashionista_Fondant_Fantasy_var3.png"
+    ],
+    "thumbnail": "Fashionista_Fondant_Fantasy_var1.png",
+    "isFeatured": true,
+    "description": "Indulge in the whimsical world of the Fashionista Fondant Fantasy, a perfect choice for Barbie lovers. This beautifully crafted theme cake combines elegance and fun, making it a memorable centerpiece for any celebration.",
+    "createdAt": "2023-10-06",
+    "attributes": [
+      {
+        "name": "Size",
+        "values": [
+          "Small",
+          "Medium",
+          "Large"
+        ]
+      },
+      {
+        "name": "Flavor",
+        "values": [
+          "Vanilla",
+          "Chocolate",
+          "Strawberry"
+        ]
+      }
+    ],
+    "variations": [
+      {
+        "id": "var1",
+        "sku": "FFF12345-S-V",
+        "image": "Fashionista_Fondant_Fantasy_var1.png",
+        "description": "Small vanilla-flavored Fashionista Fondant Fantasy cake.",
+        "price": 89.99,
+        "salePrice": 79.99,
+        "stock": 5,
+        "attributeValues": {
+          "Size": "Small",
+          "Flavor": "Vanilla"
+        }
+      },
+      {
+        "id": "var2",
+        "sku": "FFF12345-M-C",
+        "image": "Fashionista_Fondant_Fantasy_var2.png",
+        "description": "Medium chocolate-flavored Fashionista Fondant Fantasy cake.",
+        "price": 109.99,
+        "salePrice": 99.99,
+        "stock": 5,
+        "attributeValues": {
+          "Size": "Medium",
+          "Flavor": "Chocolate"
+        }
+      },
+      {
+        "id": "var3",
+        "sku": "FFF12345-L-S",
+        "image": "Fashionista_Fondant_Fantasy_var3.png",
+        "description": "Large strawberry-flavored Fashionista Fondant Fantasy cake.",
+        "price": 129.99,
+        "salePrice": 119.99,
+        "stock": 5,
+        "attributeValues": {
+          "Size": "Large",
+          "Flavor": "Strawberry"
+        }
+      }
+    ]
+  },
+  {
+    "id": "vYV4VSW5cAG8h1dz4kFu",
+    "title": "Ruby Velvet Decadence",
+    "price": 29.99,
+    "salePrice": 24.99,
+    "sku": "RVD-C01",
+    "stock": 50,
+    "date": "2023-10-17",
+    "category": "Flavor-Based Cakes",
+    "subCategory": "Red Velvet Cakes",
+    "productType": "variables",
+    "brand": "Any",
+    "images": [
+      "Ruby_Velvet_Decadence_RVD-C01-6CC.png",
+      "Ruby_Velvet_Decadence_RVD-C01-8VB.png",
+      "Ruby_Velvet_Decadence_RVD-C01-10CG.png"
+    ],
+    "thumbnail": "Ruby_Velvet_Decadence_RVD-C01-6CC.png",
+    "isFeatured": true,
+    "description": "Indulge in the luxurious taste of our Ruby Velvet Decadence. A rich and moist red velvet cake topped with cream cheese frosting, perfect for any celebration or as a delightful treat.",
+    "createdAt": "2023-10-17",
+    "attributes": [
+      {
+        "name": "Size",
+        "values": [
+          "6-inch",
+          "8-inch",
+          "10-inch"
+        ]
+      },
+      {
+        "name": "Frosting",
+        "values": [
+          "Classic Cream Cheese",
+          "Vanilla Bean",
+          "Chocolate Ganache"
+        ]
+      }
+    ],
+    "variations": [
+      {
+        "id": "RVD-C01-6CC",
+        "sku": "RVD-C01-6CC",
+        "image": "Ruby_Velvet_Decadence_RVD-C01-6CC.png",
+        "description": "6-inch Ruby Velvet Decadence with Classic Cream Cheese Frosting",
+        "price": 19.99,
+        "salePrice": 17.99,
+        "stock": 20,
+        "attributeValues": {
+          "Size": "6-inch",
+          "Frosting": "Classic Cream Cheese"
+        }
+      },
+      {
+        "id": "RVD-C01-8VB",
+        "sku": "RVD-C01-8VB",
+        "image": "Ruby_Velvet_Decadence_RVD-C01-8VB.png",
+        "description": "8-inch Ruby Velvet Decadence with Vanilla Bean Frosting",
+        "price": 29.99,
+        "salePrice": 24.99,
+        "stock": 15,
+        "attributeValues": {
+          "Size": "8-inch",
+          "Frosting": "Vanilla Bean"
+        }
+      },
+      {
+        "id": "RVD-C01-10CG",
+        "sku": "RVD-C01-10CG",
+        "image": "Ruby_Velvet_Decadence_RVD-C01-10CG.png",
+        "description": "10-inch Ruby Velvet Decadence with Chocolate Ganache Frosting",
+        "price": 39.99,
+        "salePrice": 34.99,
+        "stock": 15,
+        "attributeValues": {
+          "Size": "10-inch",
+          "Frosting": "Chocolate Ganache"
+        }
+      }
+    ]
+  },
+  {
+    "id": "xPn8qJZkhwXTAXU2jTDJ",
+    "title": "ToonTreats Extravaganza",
+    "price": 45,
+    "salePrice": 39.99,
+    "sku": "TTE-CC-001",
+    "stock": 20,
+    "date": "2023-10-14",
+    "category": "Theme-Based Cakes",
+    "subCategory": "Cartoon Character Cakes",
+    "productType": "variables",
+    "brand": "Any",
+    "images": [
+      "ToonTreats_Extravaganza_var-001.png",
+      "ToonTreats_Extravaganza_var-002.png",
+      "ToonTreats_Extravaganza_var-003.png"
+    ],
+    "thumbnail": "ToonTreats_Extravaganza_var-001.png",
+    "isFeatured": true,
+    "description": "Bring your child's favorite cartoon characters to life with our ToonTreats Extravaganza cakes! Perfect for birthdays and special celebrations.",
+    "createdAt": "2023-10-14",
+    "attributes": [
+      {
+        "name": "Size",
+        "values": [
+          "Small",
+          "Medium",
+          "Large"
+        ]
+      },
+      {
+        "name": "Flavor",
+        "values": [
+          "Chocolate",
+          "Vanilla",
+          "Strawberry"
+        ]
+      }
+    ],
+    "variations": [
+      {
+        "id": "var-001",
+        "sku": "TTE-CC-SM-CHOC",
+        "image": "ToonTreats_Extravaganza_var-001.png",
+        "description": "Small Chocolate ToonTreat featuring a popular cartoon character.",
+        "price": 45,
+        "salePrice": 39.99,
+        "stock": 5,
+        "attributeValues": {
+          "Size": "Small",
+          "Flavor": "Chocolate"
+        }
+      },
+      {
+        "id": "var-002",
+        "sku": "TTE-CC-MD-VAN",
+        "image": "ToonTreats_Extravaganza_var-002.png",
+        "description": "Medium Vanilla ToonTreat featuring a popular cartoon character.",
+        "price": 55,
+        "salePrice": 49.99,
+        "stock": 8,
+        "attributeValues": {
+          "Size": "Medium",
+          "Flavor": "Vanilla"
+        }
+      },
+      {
+        "id": "var-003",
+        "sku": "TTE-CC-LG-STRAW",
+        "image": "ToonTreats_Extravaganza_var-003.png",
+        "description": "Large Strawberry ToonTreat featuring a popular cartoon character.",
+        "price": 65,
+        "salePrice": 59.99,
+        "stock": 7,
+        "attributeValues": {
+          "Size": "Large",
+          "Flavor": "Strawberry"
+        }
+      }
+    ]
+  },
+  {
+    "id": "zYrGll5zfOWjX54W8Tfy",
+    "title": "ChocoFusion Delight",
+    "price": 25.99,
+    "salePrice": 19.99,
+    "sku": "CHCF-001",
+    "stock": 50,
+    "date": "2023-10-07",
+    "category": "Flavor-Based Cakes",
+    "subCategory": "Chocolate Cakes",
+    "productType": "variables",
+    "brand": "Gourmet Treats",
+    "images": [
+      "ChocoFusion_Delight_CHCF-001-S6-L1.png",
+      "ChocoFusion_Delight_CHCF-002-S8-L1.png",
+      "ChocoFusion_Delight_CHCF-003-S8-L2.png"
+    ],
+    "thumbnail": "ChocoFusion_Delight_CHCF-001-S6-L1.png",
+    "isFeatured": true,
+    "description": "Indulge in the rich and creamy ChocoFusion Delight, a heavenly chocolate cake that melts in your mouth. Perfect for any celebration or just a sweet treat.",
+    "createdAt": "2023-10-07",
+    "attributes": [
+      {
+        "name": "Size",
+        "values": [
+          "6-inch",
+          "8-inch",
+          "10-inch"
+        ]
+      },
+      {
+        "name": "Layer",
+        "values": [
+          "Single Layer",
+          "Double Layer"
+        ]
+      }
+    ],
+    "variations": [
+      {
+        "id": "CHCF-001-S6-L1",
+        "sku": "CHCF-S6L1",
+        "image": "ChocoFusion_Delight_CHCF-001-S6-L1.png",
+        "description": "ChocoFusion Delight 6-inch Single Layer",
+        "price": 25.99,
+        "salePrice": 19.99,
+        "stock": 20,
+        "attributeValues": {
+          "Size": "6-inch",
+          "Layer": "Single Layer"
+        }
+      },
+      {
+        "id": "CHCF-002-S8-L1",
+        "sku": "CHCF-S8L1",
+        "image": "ChocoFusion_Delight_CHCF-002-S8-L1.png",
+        "description": "ChocoFusion Delight 8-inch Single Layer",
+        "price": 30.99,
+        "salePrice": 24.99,
+        "stock": 15,
+        "attributeValues": {
+          "Size": "8-inch",
+          "Layer": "Single Layer"
+        }
+      },
+      {
+        "id": "CHCF-003-S8-L2",
+        "sku": "CHCF-S8L2",
+        "image": "ChocoFusion_Delight_CHCF-003-S8-L2.png",
+        "description": "ChocoFusion Delight 8-inch Double Layer",
+        "price": 35.99,
+        "salePrice": 28.99,
+        "stock": 15,
+        "attributeValues": {
+          "Size": "8-inch",
+          "Layer": "Double Layer"
+        }
+      }
+    ]
+  }
+]
